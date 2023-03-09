@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 
-model = pickle.load(open(r"C:\Users\sksho\Desktop\My Github Repo\Diabetes Prdiction\pickle\Finalized_model.pkl","rb"))
+model = pickle.load(open(r"Finalized_model.pkl","rb"))
 
 
 def main():
