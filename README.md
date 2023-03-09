@@ -1,5 +1,6 @@
-Diabetes Prediction
-THIS REPOSITORY MAINLY CONSISTS OF FOLLOWING FILES:
+#Diabetes Prediction
+
+##THIS REPOSITORY MAINLY CONSISTS OF FOLLOWING FILES:
 
 DATASETS:
 - Dataset has been Downloaded through Kaggle.com
